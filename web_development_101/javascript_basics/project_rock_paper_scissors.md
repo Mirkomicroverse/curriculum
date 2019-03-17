@@ -542,3 +542,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Sergei Jurchenko's Solution](https://github.com/Sergyurch/Rock-Paper-Scissors) - [View in Browser](https://sergyurch.github.io/Rock-Paper-Scissors/)
 - [Elan Green's Solution](https://github.com/elang5/rock_paper_scissors) - [View in Browser](https://elang5.github.io/rock_paper_scissors/)
 - [Christine Gierer's Solution](https://github.com/beansprout/Rock-Paper-Scissors) - [View in Browser](https://beansprout.github.io/Rock-Paper-Scissors/)
+- [Mirko Flores' Solution](https://github.com/Mirkomicroverse/Rock-Paper-Scissors)
